@@ -1,2 +1,2 @@
 # haproxy
-haproxy with haproxyctl
+haproxy with socat
